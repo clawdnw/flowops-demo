@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="FlowOps Open Graph preview">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#09090b" />
+      <stop offset="100%" stop-color="#18181b" />
+    </linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#a855f7" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <circle cx="950" cy="120" r="180" fill="#6366f1" opacity="0.14"/>
+  <circle cx="150" cy="520" r="220" fill="#a855f7" opacity="0.12"/>
+
+  <rect x="100" y="120" width="110" height="110" rx="24" fill="url(#brand)"/>
+  <path d="M132 150h64v16h-48v20h36v16h-36v28h-16v-80z" fill="#fff"/>
+
+  <text x="240" y="190" fill="#ffffff" font-size="76" font-family="Inter, Arial, sans-serif" font-weight="700">
+    FlowOps
+  </text>
+  <text x="240" y="250" fill="#a1a1aa" font-size="36" font-family="Inter, Arial, sans-serif">
+    Operations at a glance. Chaos, eliminated.
+  </text>
+
+  <rect x="100" y="330" width="1000" height="180" rx="22" fill="#111827" stroke="#27272a" stroke-width="2"/>
+  <text x="145" y="390" fill="#e4e4e7" font-size="30" font-family="Inter, Arial, sans-serif">One dashboard for projects, workflows, and team clarity.</text>
+  <text x="145" y="440" fill="#a1a1aa" font-size="26" font-family="Inter, Arial, sans-serif">flowops-demo.example</text>
+</svg>
